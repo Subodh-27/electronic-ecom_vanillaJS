@@ -220,7 +220,7 @@ textarea:focus-visible {
     font-size: 1.5rem;
   }
 
-  & .sing_in_up {
+  & .sign_in_up {
     display: flex;
     gap: 3.2rem;
   }
